@@ -30,8 +30,8 @@ Training was done on a custom Braille dataset.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/AbhijithBabu12/braille-recognition-cnn
+cd braille-recognition-cnn
 ```
 ---
 
